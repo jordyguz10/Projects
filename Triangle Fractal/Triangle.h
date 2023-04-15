@@ -1,4 +1,4 @@
-// Copyright 2022 <Jordy Guzman>
+// Copyright 2023 <Jordy Guzman>
 
 #pragma once
 #ifndef TRIANGLE_H
