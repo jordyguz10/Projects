@@ -1,11 +1,3 @@
-/************************************************************
- *Name: <Jordy Guzman Alcaraz>
- *Course name: <COMP.2040>
- *Assignment: <PS1b>
- *Instructor's name: <Dr. James Daly>
- *Date: <2-7-2022>
- *Sources Of Help: <Class Notes, Class Discord, SFML Website>
-************************************************************/
 #include "PhotoMagic.h"
 
 int main(int argc, char* argv[]){
