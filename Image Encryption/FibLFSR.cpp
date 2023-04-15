@@ -1,12 +1,3 @@
-/************************************************************
- *Name: <Jordy Guzman Alcaraz>
- *Course name: <COMP.2040>
- *Assignment: <PS1a>
- *Instructor's name: <Dr. James Daly>
- *Date: <1-31-2022>
- *Sources Of Help: <Class Notes, Class Discord, cplusplus.com>
-************************************************************/
-
 #include "FibLFSR.h"
 
 FibLFSR::FibLFSR(std::string seed){
